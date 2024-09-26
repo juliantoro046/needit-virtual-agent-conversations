@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2024-09-26 12:29:03</change_date>
+        <changed_by/>
+        <content display_value="Service Portal web client*">c821485bdb021050ab1354e4dc961970</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 12:29:03</sys_created_on>
+        <sys_id>c4bbdbb253b45210e6bb72d0a0490eb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2024-09-26 12:29:03</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_786385_needit_vi">33c8671253e05210e6bb72d0a0490ece</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">33c8671253e05210e6bb72d0a0490ece</sys_scope>
+        <sys_update_name>gsw_change_log_c4bbdbb253b45210e6bb72d0a0490eb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 12:29:03</sys_updated_on>
+        <type>6</type>
+    </gsw_change_log>
+</record_update>

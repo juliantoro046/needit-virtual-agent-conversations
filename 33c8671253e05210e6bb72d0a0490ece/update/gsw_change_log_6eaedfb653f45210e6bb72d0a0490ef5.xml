@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2024-09-26 12:42:04</change_date>
+        <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
+        <content display_value="Workspace Agent Chat">a76c7b87db021050ab1354e4dc9619e6</content>
+        <related_change_log_entry display_value="2024-09-26 05:42:04">a2aedfb653f45210e6bb72d0a0490eee</related_change_log_entry>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 12:42:04</sys_created_on>
+        <sys_id>6eaedfb653f45210e6bb72d0a0490ef5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2024-09-26 12:42:04</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_786385_needit_vi">33c8671253e05210e6bb72d0a0490ece</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">33c8671253e05210e6bb72d0a0490ece</sys_scope>
+        <sys_update_name>gsw_change_log_6eaedfb653f45210e6bb72d0a0490ef5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 12:42:04</sys_updated_on>
+        <type>2</type>
+    </gsw_change_log>
+</record_update>
